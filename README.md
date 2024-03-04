@@ -54,7 +54,7 @@
 * STBMP
 <p float="left">
   <img src="https://github.com/JasonWang959/Decoupled-Spatio-Temporal-Modeling-for-Human-Motion-Prediction-with-Multi-Subgraph-Learning/blob/main/STBMP/human_viz_eating_1.gif" width="300" />
-  <img src="https://github.com/JasonWang959/Decoupled-Spatio-Temporal-Modeling-for-Human-Motion-Prediction-with-Multi-Subgraph-Learning/blob/main/STBMP/human_viz_greeting_1.gi" width="300" />
+  <img src="https://github.com/JasonWang959/Decoupled-Spatio-Temporal-Modeling-for-Human-Motion-Prediction-with-Multi-Subgraph-Learning/blob/main/STBMP/human_viz_greeting_1.gif" width="300" />
   <img src="https://github.com/JasonWang959/Decoupled-Spatio-Temporal-Modeling-for-Human-Motion-Prediction-with-Multi-Subgraph-Learning/blob/main/STBMP/human_viz_phoning_1.gi.gif" width="300" />
 </p>
 
