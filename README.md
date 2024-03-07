@@ -1,7 +1,7 @@
 # Decoupled-Spatio-Temporal-Modeling-for-Human-Motion-Prediction-with-Multi-Subgraph-Learning
 
 ## Visualization
-### SPGSN and Ours
+### SPGSN and Ours: The length of the input historical sequence is set to 10, while the output prediction sequence spans 25 time steps.
 * SPGSN
 <p float="left">
   <img src="https://github.com/JasonWang959/Decoupled-Spatio-Temporal-Modeling-for-Human-Motion-Prediction-with-Multi-Subgraph-Learning/blob/main/spgsn/human_viz_directions_0.gif" width="300" />
@@ -50,7 +50,7 @@
 
 ****
 
-### STBMP and Ours
+### STBMP and Ours: The length of the input historical sequence is set to 10, while the output prediction sequence spans 10 time steps.
 * STBMP
 <p float="left">
   <img src="https://github.com/JasonWang959/Decoupled-Spatio-Temporal-Modeling-for-Human-Motion-Prediction-with-Multi-Subgraph-Learning/blob/main/STBMP/human_viz_greeting_0.gif" width="300" />
