@@ -1,4 +1,4 @@
-# Decoupled-Spatio-Temporal-Modeling-for-Human-Motion-Prediction-with-Multi-Subgraph-Learning
+# Spatio-Temporal Multi-Subgraph GCN for 3D Human Motion Prediction
 
 We will release the source code upon acceptance of the paper.
 
