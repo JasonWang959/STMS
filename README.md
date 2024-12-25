@@ -1,6 +1,6 @@
 # Spatio-Temporal Multi-Subgraph GCN for 3D Human Motion Prediction
 
-We will release the source code upon acceptance of the paper.
+We will release the source code soon.
 
 ## Visualization
 ### SPGSN and Ours: The length of the input historical sequence is set to 10, while the output prediction sequence spans 25 time steps.
